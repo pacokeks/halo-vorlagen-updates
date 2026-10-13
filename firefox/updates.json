@@ -11,6 +11,11 @@
                                                                                    "version":  "0.8.0",
                                                                                    "update_link":  "https://pacokeks.github.io/halo-vorlagen-updates/firefox/halo-vorlagen-0.8.0.xpi",
                                                                                    "update_hash":  "sha256:3670730bae9b6449b5f5df629e84f527b605a9b4197c3018331960c5d5752c4d"
+                                                                               },
+                                                                               {
+                                                                                   "version":  "0.8.1",
+                                                                                   "update_link":  "https://pacokeks.github.io/halo-vorlagen-updates/firefox/halo-vorlagen-0.8.1.xpi",
+                                                                                   "update_hash":  "sha256:28bfbff358631c660518809a2fdb137d2e204bfc96882a3332035eb6e59a42bb"
                                                                                }
                                                                            ]
                                                            }
