@@ -1,7 +1,13 @@
 {
-  "addons": {
-    "halo-vorlagen@deutschefachpflege.de": {
-      "updates": []
-    }
-  }
+    "addons":  {
+                   "halo-vorlagen@deutschefachpflege.de":  {
+                                                               "updates":  [
+                                                                               {
+                                                                                   "version":  "0.7.9",
+                                                                                   "update_link":  "https://pacokeks.github.io/halo-vorlagen-updates/firefox/halo-vorlagen-0.7.9.xpi",
+                                                                                   "update_hash":  "sha256:d6214803665ffc75c913e396152e3cffd8cf8b70646af332bfe317b62e9287a0"
+                                                                               }
+                                                                           ]
+                                                           }
+               }
 }
